@@ -1,0 +1,36 @@
+.box-container{
+    width:1024px;
+    height: auto;
+    display: flex;
+    align-items: left;
+
+    margin-left:auto;
+    margin-right:auto;
+    
+
+    .box1{
+        flex: 2;
+        height: auto;
+        background: #22b8cf;
+
+        display: grid;        
+        grid-template-columns: 1fr 1fr;                             // Column이 두개
+        grid-template-rows: repeat(5, minmax(20px, auto));          // row가 5개임을 보장
+
+
+    }
+
+    .box2{        
+        flex: 7;
+        height: auto;
+        background: #222222;
+
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);                      // Column이 5
+        grid-template-rows: repeat(5, minmax(20px, auto));          // row가 5개임을 보장
+
+        
+    }
+  }
+
+  

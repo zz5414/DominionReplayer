@@ -1,5 +1,5 @@
 import React from 'react';
-import './Template.scss'
+import './Template.scss';
 
 const Template = ({children}) => {
     return (
