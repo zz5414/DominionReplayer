@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DominionReplayer/static/css/main.043dda10.chunk.css",
+    "main.js": "/DominionReplayer/static/js/main.7f31b8c8.chunk.js",
+    "main.js.map": "/DominionReplayer/static/js/main.7f31b8c8.chunk.js.map",
+    "runtime-main.js": "/DominionReplayer/static/js/runtime-main.eef0f3f9.js",
+    "runtime-main.js.map": "/DominionReplayer/static/js/runtime-main.eef0f3f9.js.map",
+    "static/js/2.785bd70c.chunk.js": "/DominionReplayer/static/js/2.785bd70c.chunk.js",
+    "static/js/2.785bd70c.chunk.js.map": "/DominionReplayer/static/js/2.785bd70c.chunk.js.map",
+    "static/js/3.0a1aae4f.chunk.js": "/DominionReplayer/static/js/3.0a1aae4f.chunk.js",
+    "static/js/3.0a1aae4f.chunk.js.map": "/DominionReplayer/static/js/3.0a1aae4f.chunk.js.map",
+    "index.html": "/DominionReplayer/index.html",
+    "static/css/main.043dda10.chunk.css.map": "/DominionReplayer/static/css/main.043dda10.chunk.css.map",
+    "static/js/2.785bd70c.chunk.js.LICENSE.txt": "/DominionReplayer/static/js/2.785bd70c.chunk.js.LICENSE.txt",
+    "static/media/m노상강도_v2.a3f8b859.png": "/DominionReplayer/static/media/m노상강도_v2.a3f8b859.png",
+    "static/media/동.c810e5ac.png": "/DominionReplayer/static/media/동.c810e5ac.png",
+    "static/media/은.78d09fcd.png": "/DominionReplayer/static/media/은.78d09fcd.png",
+    "static/media/장인.dd43b1cc.png": "/DominionReplayer/static/media/장인.dd43b1cc.png",
+    "static/media/하인.f7c1088a.png": "/DominionReplayer/static/media/하인.f7c1088a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef0f3f9.js",
+    "static/js/2.785bd70c.chunk.js",
+    "static/css/main.043dda10.chunk.css",
+    "static/js/main.7f31b8c8.chunk.js"
+  ]
+}
