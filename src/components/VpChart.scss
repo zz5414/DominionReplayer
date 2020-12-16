@@ -1,0 +1,38 @@
+.chart_wrap{
+    width:1024px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+
+    display: flex;
+
+    .vp_chart{
+        flex:1;
+    }
+
+    .vp_table{
+        flex: 1;
+        font-size:1.5rem;
+
+        table, th, td {
+            margin-left:auto;
+            margin-right:auto;
+
+            // border: 1px solid black;
+            border-spacing: 0px;
+
+            .red{
+                color: red;
+            }
+
+            .padding{
+                padding-left : 10px;
+                padding-right : 10px;
+            }
+
+            .bottom{
+                border-bottom: 1px solid black;                
+            }
+        }        
+    }
+}

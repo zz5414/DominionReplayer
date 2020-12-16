@@ -1,7 +1,8 @@
 import React from 'react';
 import './Supplier.scss';
-import Card from './Card';
+import MiniCard from './MiniCard';
 
+import imgA from '../images/m노상강도_v2.png'
 
 const Supplier = () => {
     const arNodeTreasure = ["속주", "금", "공작령", "은", "사유지", "동", "저주"]
@@ -11,12 +12,12 @@ const Supplier = () => {
             <div className="box-container">
                 <div className="box1">
                     {arNodeTreasure.map((name, i) =>{
-                        return (<Card>{i}</Card>);
+                        return (<MiniCard src_img={imgA}>{i}</MiniCard>);
                     })}
                 </div>
                 <div className="box2">
                     {arNodeAction.map((name, i) =>{
-                        return (<Card>{i}</Card>);
+                        return (<MiniCard src_img={imgA}>{i}</MiniCard>);
                     })}
                 </div>
             </div>

@@ -1,0 +1,33 @@
+.action_wrap{
+    width: 1024px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+    display: flex;
+
+    .play_card{
+        flex: 2;
+        background-color: black;
+        border-width: 1px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .interaction{
+        flex: 2;
+        background-color: bisque;
+        border-width: 1px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .log{
+        flex: 1;
+        background-color: beige;
+        border-width: 1px;
+    }
+}

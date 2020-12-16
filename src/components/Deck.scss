@@ -1,0 +1,34 @@
+.deck_wrap{
+    width: 1024px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+    display: flex;
+
+    .user1{
+        flex: 1;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .user2{
+        flex: 1;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .user3{
+        flex: 1;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
